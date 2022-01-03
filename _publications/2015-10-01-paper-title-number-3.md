@@ -1,5 +1,5 @@
 ---
-title: "DeepMI: Deep multi-lead ECG fusion for identifying myocardial infarction and its occurrence-time"
+title: "DeepMI"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
