@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "girmaw"
+  github           : #"girmaw"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/girmaw-abebe-tadesse-71b84248
+  linkedin         : "https://www.linkedin.com/in/girmaw-abebe-tadesse-71b84248"
   orcid            : #"http://orcid.org/0000-0002-2648-9102"
   pinterest        :
   soundcloud       :
