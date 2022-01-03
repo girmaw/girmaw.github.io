@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Girmaw Abebe Tadesse"
-  avatar           : "cafe.jpg"
+  avatar           : "./images/cafe.jpg"
   bio              : "Research Scientist at IBM Research | Africa"
   location         : "Nairobi, Kenya"
   employer         :
