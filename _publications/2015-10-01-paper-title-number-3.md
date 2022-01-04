@@ -9,7 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0933365721001858'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Details here](http://academicpages.github.io/files/paper2.pdf)
+[Details here](https://www.sciencedirect.com/science/article/pii/S0933365721001858)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+<!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
 
