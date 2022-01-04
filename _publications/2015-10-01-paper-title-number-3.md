@@ -7,7 +7,7 @@ date: 2021-10-12
 venue: 'Artificial Intelligence in Medicine'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0933365721001858'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+<!-- This paper is about the number 2. The number 3 is left for future work. -->
 
 [Details here](https://www.sciencedirect.com/science/article/pii/S0933365721001858)
 
