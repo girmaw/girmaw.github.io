@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Girmaw Abebe Tadesse"
 title_separator          : "-"
 name                     : &name "Girmaw Abebe Tadesse"
-description              : &description "Principal Research Science Manager at Microsoft AI for Good Research Lab"
+description              : &description "Principal Research Scientist and Manager at Microsoft AI for Good Research Lab"
 url                      : https://girmaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "girmaw.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Girmaw Abebe Tadesse"
   avatar           : "profile.png"
-  bio              : "Principal Research Science Manager at Microsoft AI for Good Research Lab"
+  bio              : "Principal Research Scientist and Manager at Microsoft AI for Good Research Lab"
   location         : "Nairobi, Kenya"
   employer         : "Microsoft AI for Good Lab"
   pubmed           :

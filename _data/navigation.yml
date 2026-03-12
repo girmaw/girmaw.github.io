@@ -12,11 +12,14 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Honours"
     url: /honours/
 
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
