@@ -6,6 +6,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Patents"
+    url: /patents/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Honours"
+    url: /honours/
+
   - title: "Projects"
     url: /projects/
 
