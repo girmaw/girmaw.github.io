@@ -5,30 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Oxford, UK (2016–2018)
+## University of Oxford, Department of Engineering Science
 
-**Postdoctoral Researcher & Teaching Support**, Department of Engineering Science
+**Tutor** · Oxford, UK · 2018–2019
 
-- Supervised graduate students on deep learning projects for medical image analysis
-- Contributed to teaching and mentoring in machine learning and computer vision courses
-- Collaborated with clinical researchers on AI-assisted disease diagnosis
+- Course: *Biomedical Modelling and Monitoring (B18)*
 
-## Queen Mary University of London, UK (2014–2017)
+## Queen Mary University of London, School of Electronic Engineering and Computer Science
 
-**PhD Researcher & Teaching Assistant**, School of Electronic Engineering and Computer Science
+**Tutor** · London, UK · Feb 2016 – Jan 2018
 
-- Teaching Assistant for undergraduate and postgraduate courses in signal processing, machine learning, and computer vision
-- Supervised student projects on human activity recognition using wearable sensors
-- Delivered tutorials and lab sessions on pattern recognition and data analysis
+- Courses: *Machine Learning*, *Data Mining*, *Signals and Systems Theory*, *Electronic Engineering Mathematics*
 
-## Bahir Dar University, Ethiopia (2008–2014)
+## Bahir Dar University, School of Electrical Engineering and Computer Science
 
-**Lecturer**, School of Electrical Engineering and Computer Science
+**Lecturer, Assistant Lecturer** · Bahir Dar, Ethiopia · Sep 2007–2010, Aug 2012 – Mar 2014
 
-- Taught undergraduate courses in electrical engineering, signal processing, and programming
-- Supervised final-year student projects
+- Courses: *Statistical Signal Processing and Machine Learning*, *Digital Signal Processing*, *Image Processing*, *Research Methods and Presentation*, *Signal and System Analysis*, *Network Theory*, *Analog Filter Design*, *Linear and Modern Control Systems*, *Fundamentals of Electronics*
 - **Best Lecturer of the Year (Students' Choice)** — 2013
-- Contributed to curriculum development in electrical engineering
 
 ## Guest Lectures & Tutorials
 
