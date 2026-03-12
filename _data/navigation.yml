@@ -1,28 +1,13 @@
 # main links links
 main:
-  - title: "News"
-    url: /news/
-    
+  - title: "About"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-  
-  - title: "Patents"
-    url: /patents/ 
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Datasets"
-    url: /datasets/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
-#   - title: "Guide"
-#     url: /markdown/

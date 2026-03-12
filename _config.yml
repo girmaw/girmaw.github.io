@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Girmaw Abebe Tadesse"
 title_separator          : "-"
 name                     : &name "Girmaw Abebe Tadesse"
-description              : &description "Research Scientist at IBM Research | Africa"
+description              : &description "Principal Research Science Manager at Microsoft AI for Good Research Lab"
 url                      : https://girmaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "girmaw.github.io"
@@ -81,32 +81,32 @@ analytics:
 # Site Author
 author:
   name             : "Girmaw Abebe Tadesse"
-  avatar           : "cafe.jpg"
-  bio              : "Research Scientist at IBM Research | Africa"
+  avatar           : "profile.png"
+  bio              : "Principal Research Science Manager at Microsoft AI for Good Research Lab"
   location         : "Nairobi, Kenya"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Microsoft Research"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZWfuPHUAAAAJ&hl=en"
-  email            : "girmawabebe@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            : "gtadesse@microsoft.com"
+  researchgate     :
+  uri              : "https://www.microsoft.com/en-us/research/people/gtadesse/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"girmaw"
+  github           : "girmaw"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/girmaw-abebe-tadesse-71b84248"
-  orcid            : #"http://orcid.org/0000-0002-2648-9102"
+  linkedin         : "girmaw-abebe-tadesse"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "girmawAT"

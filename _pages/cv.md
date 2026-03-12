@@ -11,34 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D. in Interactive and Cognitive Environments**, Queen Mary University of London & UPC-BarcelonaTech, 2017
+  * Erasmus Mundus Double Doctorate Program
+  * Focus: Computer vision and machine learning for human activity recognition using wearable cameras
+* **M.Sc. in Electrical Engineering**, Addis Ababa University, Ethiopia
+* **B.Sc. in Electrical Engineering**, Addis Ababa University, Ethiopia
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **2023 – Present: Principal Research Science Manager**
+  * Microsoft AI for Good Research Lab, Nairobi, Kenya
+  * Leading a team developing AI solutions for agriculture, healthcare, biodiversity, and environmental sustainability
+  * Research areas: Geospatial ML, trustworthy AI, computer vision, deep learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* **2018 – 2023: Staff Research Scientist**
+  * IBM Research Africa, Nairobi, Kenya
+  * Led projects in trustworthy AI, generative model evaluation, and data-driven public health analytics
+  * Collaborations with Bill & Melinda Gates Foundation, Stanford, Oxford, and Harvard
+
+* **2016 – 2018: Postdoctoral Researcher**
+  * University of Oxford, UK
+  * Developed deep learning techniques for disease diagnosis
+  * Collaborations with clinicians and hospitals in China and Vietnam
+
+* **Research Internships/Positions (during PhD)**
+  * UPC-BarcelonaTech, Technical Research Center for Dependency Care and Autonomous Living, Spain
+  * KU Leuven, Belgium
+  * INESC-ID, Lisbon, Portugal
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Geospatial Data Analysis & Remote Sensing
+* Trustworthy & Responsible AI
+* Computer Vision & Deep Learning
+* AI for Health & Public Health
+* AI for Agriculture & Food Security
+* Data-centric Machine Learning
+
+Professional Service
+======
+* Executive Member, IEEE Kenya Section
+* Reviewer and Program Committee Member for top-tier AI journals and conferences
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -47,13 +64,4 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
