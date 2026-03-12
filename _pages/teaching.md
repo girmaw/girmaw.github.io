@@ -13,16 +13,15 @@ author_profile: true
 
 ## Queen Mary University of London, School of Electronic Engineering and Computer Science
 
-**Tutor** · London, UK · Feb 2016 – Jan 2018
+**Tutor** · London, UK · 2016–2018
 
 - Courses: *Machine Learning*, *Data Mining*, *Signals and Systems Theory*, *Electronic Engineering Mathematics*
 
 ## Bahir Dar University, School of Electrical Engineering and Computer Science
 
-**Lecturer, Assistant Lecturer** · Bahir Dar, Ethiopia · Sep 2007–2010, Aug 2012 – Mar 2014
+**Lecturer, Assistant Lecturer** · Bahir Dar, Ethiopia · 2007–2010, 2012–2013
 
 - Courses: *Statistical Signal Processing and Machine Learning*, *Digital Signal Processing*, *Image Processing*, *Research Methods and Presentation*, *Signal and System Analysis*, *Network Theory*, *Analog Filter Design*, *Linear and Modern Control Systems*, *Fundamentals of Electronics*
-- **Best Lecturer of the Year (Students' Choice)** — 2013
 
 ## Guest Lectures & Tutorials
 
