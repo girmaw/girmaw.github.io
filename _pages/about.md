@@ -12,7 +12,7 @@ I am a **Principal Research Scientist and Manager** at [Microsoft AI for Good Re
 
 ## Research Focus
 
-My current work centers on leveraging satellite imagery and machine learning to address food security, land-use mapping, environmental monitoring, and public health challenges, primarily in sub-Saharan Africa and South Asia. Key areas include:
+My current work centers on leveraging satellite imagery and machine learning to address food security, land-use mapping, environmental monitoring, and public health challenges, primarily in the Global South. Key areas include:
 
 - **Geospatial Machine Learning** — Building scalable models for land-use/land-cover mapping, crop type classification, building density estimation, and environmental change detection using satellite and aerial imagery.
 - **AI for Health** — Developing data-driven approaches for forecasting childhood malnutrition, supporting maternal and child health, and bridging the gap between data science and domain expertise in public health.
@@ -25,7 +25,7 @@ Prior to Microsoft, I was a **Staff Research Scientist at IBM Research Africa**,
 
 Before IBM, I worked as a **Postdoctoral Researcher at the University of Oxford**, developing deep learning techniques to assist diagnosis of multiple diseases, with collaborations with clinicians and hospitals in China and Vietnam.
 
-I completed my **PhD at Queen Mary University of London** under the Erasmus Mundus Double Doctorate Program in Interactive and Cognitive Environments, jointly with **UPC-BarcelonaTech**, focusing on computer vision and machine learning for human activity recognition using wearable cameras. During my doctoral studies, I also worked in research groups at **KU Leuven** (Belgium) and **INESC-ID** (Portugal).
+I completed my **PhD at Queen Mary University of London** under the Erasmus Mundus Double Doctorate Program in Interactive and Cognitive Environments, jointly with **UPC-BarcelonaTech**, focusing on computer vision and machine learning for human activity recognition using wearable cameras. I completed my **MSc at the University of Trento** (Italy) in Telecommunications Engineering, during which I conducted research visits and collaborated with research groups at **KU Leuven** (Belgium) and **INESC-ID** (Portugal), developing AI solutions for acoustic activity detection and to support aphasia patients. I completed my **BSc in Electrical Engineering** at **Arba Minch University**, Ethiopia.
 
 ## Professional Service
 
