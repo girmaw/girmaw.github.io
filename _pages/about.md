@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Principal Research Science Manager** at [Microsoft AI for Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/), where I lead a team developing AI solutions for critical global challenges across agriculture, healthcare, biodiversity, and environmental sustainability. My research focuses on geospatial machine learning, trustworthy AI, computer vision, and deep learning — with a particular emphasis on applications that create measurable social impact in underserved communities.
+I am a **Principal Research Scientist and Manager** at [Microsoft AI for Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/), where I lead a team developing AI solutions for critical global challenges across agriculture, healthcare, biodiversity, and environmental sustainability. My research focuses on geospatial machine learning, trustworthy AI, computer vision, and deep learning — with a particular emphasis on applications that create measurable social impact in underserved communities.
 
 ## Research Focus
 
